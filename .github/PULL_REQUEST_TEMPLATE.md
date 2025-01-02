@@ -1,33 +1,17 @@
-## What
+## What does the PR do? (Required)
 
-What does this pull request accomplish?
+- [x] Added foo to bar
+- [x] Fixed issue #
 
-- [x] Finished item 1
-- [x] Finished item 2
+Include information that will reviewers understand the changes better, now or in future.
 
-## How
+## Checklist (Required)
 
-What code changes were made to accomplish it?
-
-- Modify the `foo` function to return `bar`
-- Remove the `baz` function
-
-## Why
-
-- [ ] I want to fix the issue # (issue)
-- [ ] I want to add a new feature
-- [ ] I want to improve the documentation
-
-## Screenshots (If applicable)
-
-
-## Notes
-
-
-# Checklist
-
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have followed the style guidelines of this project
+- [ ] I have tested the changes on my local machine
+- [ ] I have added relevant tests for the changes
 - [ ] I have made corresponding changes to the documentation
-- [ ] New and existing unit tests pass locally with my changes
+
+## Evidence (Required)
+
+Please include relevant screenshots, recordings, or logs to support your changes.
