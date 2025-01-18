@@ -7,10 +7,9 @@ Include information that will reviewers understand the changes better, now or in
 
 ## Checklist (Required)
 
-- [ ] I have followed the style guidelines of this project
 - [ ] I have tested the changes on my local machine
-- [ ] I have added relevant tests for the changes
-- [ ] I have made corresponding changes to the documentation
+- [ ] I have added relevant documentation and tests for the changes
+- [ ] I have followed the style guidelines of this project
 
 ## Evidence (Required)
 
